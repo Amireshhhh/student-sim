@@ -1,4 +1,4 @@
-# student-SIM
+# Student-SIM
 
 This was a modeling done for a game of SIM City applied to a school environment. This is implemented in Java and was awarded the best project for the new class of 2019 of masters in Data Science at IIT.
 
